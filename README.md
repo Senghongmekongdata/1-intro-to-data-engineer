@@ -349,4 +349,5 @@ In this reading, you learned that:
 
 
 <br />
-> **Congratulation**
+
+> **Congratulation for your data journey...!**
