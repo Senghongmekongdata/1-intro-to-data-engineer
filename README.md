@@ -170,3 +170,72 @@ A variety of software and tools are available for the data wrangling process. So
 
 - Time-based and condition-based maintenance schedules generate data that helps identify systems and procedures responsible for faults and low availability.
 
+
+### **Governance and Complaince**
+
+Data Governance is a collection of principles, practices, and processes that help maintain the security, privacy, and integrity of data through its lifecycle.
+
+Personal Information and Sensitive Personal Information, that is, data that can be traced back to an individual or can be used to identify or cause harm to an individual, needs to be protected through governance regulations. 
+
+General Data Protection Regulation, or GDPR, is one such regulation that protects the personal data and privacy of EU citizens for transactions that occur within EU member states. 
+Regulations, such as HIPAA (Health Insurance Portability and Accountability Act) for Healthcare, PCI DSS (Payment Card Industry Data Security Standard) for retail, and SOX (Sarbanes Oxley) for financial data are some of the industry-specific regulations. 
+
+Compliance covers the processes and procedures through which an organization adheres to regulations and conducts its operations in a legal and ethical manner.
+
+Compliance requires organizations to maintain an auditable trail of personal data through its lifecycle, which includes acquisition, processing, storage, sharing, retention, and disposal of data.
+
+Tools and technologies play a critical role in the implementation of a governance framework, offering features such as:
+
+- Authentication and Access Control.
+
+- Encryption and Data Masking.
+
+- Hosting options that comply with requirements and restrictions for international data transfers.
+
+- Monitoring and Alerting functionalities.
+
+- Data erasure tools that ensure deleted data cannot be retrieved.
+
+## **DataOps Methodology**
+Gartner defines DataOps as a collaborative data management practice focused on improving the communication, integration, and automation of data flows between data managers and consumers across an organization. DataOps aims to create predictable delivery and change management of data, data models, and related artifacts. DataOps uses technology to automate data delivery with the appropriate levels of security, quality, and metadata to improve the use and value of data in a dynamic environment.”
+
+(Source: https://blogs.gartner.com/nick-heudecker/hyping-dataops/)
+
+A small team working on a simpler or limited number of use cases can meet business requirements efficiently. As data pipelines and data infrastructures get more complex, and data teams and consumers grow in size, you need development processes and efficient collaboration between teams to govern the data and analytics lifecycle. From data ingestion and data processing to analytics and reporting, you need to reduce data defects, ensure shorter cycle times, and ensure 360-degree access to quality data for all stakeholders.
+
+DataOps helps you achieve this through metadata management, workflow and test automation, code repositories, collaboration tools, and orchestration to help manage complex tasks and workflows. Using the DataOps methodology ensures all activities occur in the right order the right security permissions. It helps set in a continual process that allows you to cut wastages, streamline steps, automate processes, increase throughput, and improve continually.
+
+Several DataOps Platforms are available in the market, some of the popular ones being IBM DataOps, Nexla, Switchboard, Streamsets, and Infoworks.
+
+### **DataOps Methodology:**
+The purpose of the DataOps Methodology is to enable an organization to utilize a repeatable process to build and deploy analytics and data pipelines. Successful implementation of this methodology allows an organization to know, trust, and use data to drive value.
+
+It ensures that the data used in problem-solving and decision making is relevant, reliable, and traceable and improves the probability of achieving desired business outcomes. And it does so by tackling the challenges associated with inefficiencies in accessing, preparing, integrating, and making data available.
+
+In a nutshell, the DataOps Methodology consists of three main phases:
+
+- The **Establish DataOps Phase** provides guidance on how to set up the organization for success in managing data.
+- The **Iterate DataOps Phase** delivers the data for one defined sprint.
+- The **Improve DataOps Phase** ensures learnings from each sprint is channeled back to continually improve the DataOps process.
+
+The figure below presents a high-level overview of these phases and the key activities within each of these phases.
+
+![Un9ggw6dSQy_YIMOnbkMWA_658a6043f3f845baa2d7c86b89754683_DataOpsMethodology](https://user-images.githubusercontent.com/58208161/183378489-acdb97be-2ed1-4054-be9d-87d91f9edf12.png)
+
+### **Benefits of using the DataOps methodology:**
+Adopting the DataOps methodology helps organizations to organize their data and make it more trusted and secure. Using the DataOps methodology, organizations can:
+
+- Automate metadata management and catalog data assets, making them easy to access.
+- Trace data lineage to establish its credibility and for compliance and audit purposes.
+- Automate workflows and jobs in the data lifecycle to ensure data integrity, relevancy, and security.
+- Streamline the workflow and processes to ensure data access and delivery needs can be met at optimal speed.
+- Ensure a business-ready data pipeline that is always available for all data consumers and business stakeholders.
+- Build a data-driven culture in the organization through automation, data quality, and governance.
+
+As a data practitioner, using the methodology can help you reduce development time, cut wastages and duplication of effort, increase your productivity and throughput, and ensure that your actions produce the best possible quality of data. 
+
+With DataOps, data professionals, consumers, and stakeholders can collaborate more effectively towards the shared goal of creating valuable insights for business. While implementing the methodology will require systemic change, time, and resources, but in the end, it makes data and analytics more efficient and reliable.
+
+Interestingly, it also opens up additional career opportunities for you as a data engineer. **DataOps Engineers** are technical professionals that focus on the development and deployment lifecycle rather than the product itself. And as you grow in experience, you can move into more specialist roles within DataOps, contributing to defining the data strategy, developing and deploying business processes, establishing performance metrics, and measuring performance.
+
+> **Congratulation**
